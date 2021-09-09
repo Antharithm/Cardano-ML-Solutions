@@ -1,1 +1,1 @@
-# Project-2
+# Ada Forcasting and Trading Bot
