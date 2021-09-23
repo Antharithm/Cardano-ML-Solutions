@@ -1,5 +1,8 @@
 # Ada Forcasting and Trading Bot
 
+This project came from a discussion about Cardano’s native cryptocurrency ADA. As Cardano's network prepares for smart contract functionality, we wanted to see how different machine learning models could perform regarding price prediction leading up to this historic event.
+
+
 Team members:
 * Abrar Aman  
 * TC Revelle
